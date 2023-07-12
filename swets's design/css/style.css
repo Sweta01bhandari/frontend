@@ -1,0 +1,14 @@
+.extra div hover
+{
+	 box-shadow:0 0 20px rgba(0 0 0 0.5);
+	 transform:translate(-20px);
+}
+footer
+{
+	background-color:#000;
+	color:#fff;
+}
+footer a
+{
+	color:#fff;
+}
